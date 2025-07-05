@@ -1,1 +1,0 @@
-# IfmgComp.github.io
