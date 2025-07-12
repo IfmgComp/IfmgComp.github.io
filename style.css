@@ -48,3 +48,10 @@ body{
     color:rgba(0, 129, 151, 0.774);
 
 }
+
+.social{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.4rem;
+    margin-top: 1.4rem;
+}
