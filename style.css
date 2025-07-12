@@ -18,7 +18,7 @@ body{
 }
 
 .foto img{
-    width: 420px;
+    width: 430px;
     height: auto;
     border-radius: 8px;
 
@@ -39,7 +39,7 @@ body{
 .infos h2{
     font-size: 24px;
     margin-top: 10px;
-    color:rgba(10, 156, 214, 0.774);
+    color:rgba(0, 129, 151, 0.774);
 }
 
 .infos p{
