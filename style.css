@@ -1,15 +1,15 @@
-body {
+body{
     background-color: rgb(255, 192, 203);
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
 }
 
-.inicio {
+.inicio{
     display: flex;
     height: 100vh;
 }
 
-.foto {
+.foto{
     flex: 1;
     background-color: rgb(250, 177, 246);
     display: flex;
@@ -17,9 +17,17 @@ body {
     justify-content: center;
 }
 
-.foto img {
+.foto img{
     width: 300px;
     height: auto;
     border-radius: 8px;
 
+}
+
+.infos{
+    flex:2;
+    padding:60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
