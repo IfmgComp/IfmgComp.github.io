@@ -1,0 +1,10 @@
+body{
+background-color:rgb(255, 192, 203);
+margin: 0;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.inicio{
+    display:flex;
+    height: 100vh;
+}
