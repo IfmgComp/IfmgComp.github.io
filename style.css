@@ -91,7 +91,7 @@ footer p{
 .sobre {
   display: flex; /* Faz com que as seções (.sobre-mim e .habilidades) fiquem lado a lado */
   flex-wrap: wrap; /* Permite que as seções quebrem para a próxima linha em telas menores */
-  background-color: #fff; /* Define a cor de fundo como branco */
+  background-color: #e994fa; /* Define a cor de fundo como branco */
   padding: 60px 80px; /* Adiciona espaçamento interno: 60px em cima/baixo, 80px nas laterais */
   gap: 40px; /* Adiciona um espaçamento de 40 pixels entre as seções */
 }
@@ -107,7 +107,7 @@ footer p{
 .linha {
   width: 60px; /* Define a largura da linha como 60 pixels */
   height: 4px; /* Define a altura da linha como 4 pixels */
-  background-color: black; /* Define a cor de fundo da linha como preto */
+  background-color: rgb(255, 164, 228); /* Define a cor de fundo da linha como preto */
   margin-bottom: 20px; /* Adiciona uma margem de 20 pixels abaixo da linha */
   border-radius: 2px; /* Arredonda levemente os cantos da linha */
 }
@@ -121,7 +121,7 @@ footer p{
 /* Estilos para os títulos h2 dentro das seções "Sobre mim" e "Habilidades" */
 .sobre-mim h2, .habilidades h2 {
   font-size: 32px; /* Define o tamanho da fonte como 32 pixels */
-  color: gray; /* Define a cor do texto como cinza */
+  color: rgb(241, 243, 141); /* Define a cor do texto como cinza */
   margin-bottom: 10px; /* Adiciona uma margem de 10 pixels abaixo do título */
 }
 
